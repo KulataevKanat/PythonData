@@ -12,6 +12,8 @@ btn1 = Button(text="CLICK ME",
               font="15"
               )
 
-btn1.pack(expand=True, fill=BOTH)
+btn1.pack(expand=True,
+          fill=BOTH
+          )
 
 root.mainloop()
