@@ -11,7 +11,9 @@ btn1 = Button(text="CLICK ME",
               pady="6",
               font="15"
               )
-btn1.pack(side=RIGHT, fill=Y)
+btn1.pack(side=RIGHT,
+          fill=Y
+          )
 
 btn2 = Button(text="!-?",
               bg="#555",
@@ -20,7 +22,9 @@ btn2 = Button(text="!-?",
               pady="6",
               font="15"
               )
-btn2.pack(side=TOP, fill=X)
+btn2.pack(side=TOP,
+          fill=X
+          )
 
 btn3 = Button(text="CLICK ME(2)",
               background="#555",
