@@ -1,1 +1,1 @@
-# PythonStructures
+# Python Structures and Python GUI
