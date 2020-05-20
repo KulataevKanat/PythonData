@@ -24,10 +24,10 @@ class Person:
 
 # 2
 class Table:
-    __name: object
-    __color: object
+    __name: str
+    __color: str
 
-    def __init__(self,) -> None:
+    def __init__(self) -> None:
         super().__init__()
 
     @property
